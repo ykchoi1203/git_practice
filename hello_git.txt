@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 hello codestates
 Git is good.
+asdasd
 =======
 hello git
 your welcome!
