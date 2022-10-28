@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello codestates
 Git is good.
+=======
+hello git
+your welcome!
+>>>>>>> 3f31a1c7b08fdb5a5e05094c9db889ef64343682
